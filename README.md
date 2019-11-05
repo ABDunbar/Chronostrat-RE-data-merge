@@ -1,2 +1,2 @@
 # chrono_re
-Merging chronostratigraphy with well data
+This merges Rock-Eval Pyrolysis data with a separate dataset containing chronostratigraphic ages.
